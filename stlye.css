@@ -2,7 +2,7 @@ body{
     background-color:#212121    ;
 }
 #result{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .form-container {
@@ -87,7 +87,7 @@ body{
   }
   @media (max-width: 600px) {
     .form-container {
-      width: 55%; /* Adjust for smaller screens */
+      width: 60%; /* Adjust for smaller screens */
       padding: 10px; /* Reduce padding */
     }
   }
